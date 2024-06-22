@@ -117,8 +117,7 @@ Summaries of AI Research Papers
 - Mixture of Soft Prompts for Controllable Data Generation ([summary](https://blog.athina.ai/mixture-of-soft-prompts-for-controllable-data-generation) | [paper](https://arxiv.org/abs/2303.01580))
 - WizardLM: Empowering Large Language Models to Follow Complex Instructions ([summary](https://blog.athina.ai/wizardlm-empowering-large-language-models-to-follow-complex-instructions) | [paper](https://arxiv.org/abs/2304.12244))
 
-### Reasoning
-
+## Reasoning
 - Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT ([summary](https://blog.athina.ai/graph-toolformer-to-empower-llms-with-graph-reasoning-ability-via-prompt-augmented-by-chatgpt) | [paper](https://arxiv.org/abs/2304.11116))
 - Understanding prompt engineering may not require rethinking generalization ([summary](https://blog.athina.ai/understanding-prompt-engineering-may-not-require-rethinking-generalization) | [paper](https://arxiv.org/abs/2310.03957))
 - Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought ([summary](https://blog.athina.ai/language-models-are-greedy-reasoners-a-systematic-formal-analysis-of-chain-of-thought) | [paper](https://arxiv.org/abs/2210.01240v3))
@@ -180,3 +179,11 @@ Summaries of AI Research Papers
 - Natural Language Reasoning, A Survey ([summary](https://blog.athina.ai/natural-language-reasoning-a-survey) | [paper](https://arxiv.org/abs/2303.14725))
 - Reinforcement Learning in the Era of LLMs: What is Essential? What is needed? An RL Perspective on RLHF, Prompting, and Beyond ([summary](https://blog.athina.ai/reinforcement-learning-in-the-era-of-llms-what-is-essential-what-is-needed-an-rl-perspective-on-rlhf-prompting-and-beyond) | [paper](https://arxiv.org/abs/2310.06147))
 - Post-Semantic-Thinking: A Robust Strategy to Distill Reasoning Capacity from Large Language Models ([summary](https://blog.athina.ai/post-semantic-thinking-a-robust-strategy-to-distill-reasoning-capacity-from-large-language-models) | [paper](https://arxiv.org/html/2404.09170v1))
+  
+## Foundation Model 
+- SAM on Medical Images: A Comprehensive Study on Three Prompt Modes ([summary](https://blog.athina.ai/sam-on-medical-images-a-comprehensive-study-on-three-prompt-modes) | [paper](https://arxiv.org/abs/2305.00035))
+- AI Chain on Large Language Model for Unsupervised Control Flow Graph Generation for Statically-Typed Partial Code ([summary](https://blog.athina.ai/ai-chain-on-large-language-model-for-unsupervised-control-flow-graph-generation-for-statically-typed-partial-code) | [paper](https://arxiv.org/abs/2306.00757))
+- Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-shot Learners ([summary](https://blog.athina.ai/prompt-generate-then-cache-cascade-of-foundation-models-makes-strong-few-shot-learners) | [paper](https://arxiv.org/abs/2303.02151))
+- Universality and Limitations of Prompt Tuning ([summary](https://blog.athina.ai/universality-and-limitations-of-prompt-tuning) | [paper](https://arxiv.org/abs/2305.18787))
+- One Small Step for Generative AI, One Giant Leap for AGI: A Complete Survey on ChatGPT in AIGC Era ([summary](https://blog.athina.ai/one-small-step-for-generative-ai-one-giant-leap-for-agi-a-complete-survey-on-chatgpt-in-aigc-era) | [paper](https://arxiv.org/abs/2304.06488))
+- Mistral 7B: Foundation Model Research Paper Summary ([summary](https://blog.athina.ai/mistral-7b-foundation-model-research-paper-summary) | [paper](https://arxiv.org/pdf/2310.06825.pdf))
