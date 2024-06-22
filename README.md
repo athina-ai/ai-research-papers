@@ -187,3 +187,16 @@ Summaries of AI Research Papers
 - Universality and Limitations of Prompt Tuning ([summary](https://blog.athina.ai/universality-and-limitations-of-prompt-tuning) | [paper](https://arxiv.org/abs/2305.18787))
 - One Small Step for Generative AI, One Giant Leap for AGI: A Complete Survey on ChatGPT in AIGC Era ([summary](https://blog.athina.ai/one-small-step-for-generative-ai-one-giant-leap-for-agi-a-complete-survey-on-chatgpt-in-aigc-era) | [paper](https://arxiv.org/abs/2304.06488))
 - Mistral 7B: Foundation Model Research Paper Summary ([summary](https://blog.athina.ai/mistral-7b-foundation-model-research-paper-summary) | [paper](https://arxiv.org/pdf/2310.06825.pdf))
+
+## Fine Tuning
+- SGL-PT: A Strong Graph Learner with Graph Prompt Tuning ([summary](https://blog.athina.ai/sgl-pt-a-strong-graph-learner-with-graph-prompt-tuning) | [paper](https://arxiv.org/abs/2302.12449))
+- The Flan Collection: Designing Data and Methods for Effective Instruction Tuning ([summary](https://blog.athina.ai/the-flan-collection-designing-data-and-methods-for-effective-instruction-tuning) | [paper](https://arxiv.org/abs/2301.13688))
+- A-la-carte Prompt Tuning (APT): Combining Distinct Data Via Composable Prompting ([summary](https://blog.athina.ai/a-la-carte-prompt-tuning-apt-combining-distinct-data-via-composable-prompting) | [paper](https://arxiv.org/abs/2302.07994))
+- How Does In-Context Learning Help Prompt Tuning? ([summary](https://blog.athina.ai/how-does-in-context-learning-help-prompt-tuning) | [paper](https://arxiv.org/abs/2302.11521))
+- Effectiveness of Data Augmentation for Parameter Efficient Tuning with Limited Data ([summary](https://blog.athina.ai/effectiveness-of-data-augmentation-for-parameter-efficient-tuning-with-limited-data) | [paper](https://arxiv.org/abs/2303.02577))
+- Multitask Prompt Tuning Enables Parameter-Efficient Transfer Learning ([summary](https://blog.athina.ai/multitask-prompt-tuning-enables-parameter-efficient-transfer-learning) | [paper](https://arxiv.org/abs/2303.02861))
+- Visual-Language Prompt Tuning with Knowledge-guided Context Optimization ([summary](https://blog.athina.ai/visual-language-prompt-tuning-with-knowledge-guided-context-optimization) | [paper](https://arxiv.org/abs/2303.13283))
+- Global Prompt Cell: A Portable Control Module for Effective Prompt Tuning ([summary](https://blog.athina.ai/global-prompt-cell-a-portable-control-module-for-effective-prompt-tuning) | [paper](https://arxiv.org/abs/2304.05642))
+- Focused Prefix Tuning for Controllable Text Generation ([summary](https://blog.athina.ai/focused-prefix-tuning-for-controllable-text-generation) | [paper](https://arxiv.org/abs/2306.00369))
+- Fine-tuning Language Models for Factuality ([summary](https://blog.athina.ai/fine-tuning-language-models-for-factuality) | [paper](https://arxiv.org/abs/2311.08401))
+- Direct Preference Optimization: Your Language Model is Secretly a Reward Model ([summary](https://blog.athina.ai/direct-preference-optimization-your-language-model-is-secretly-a-reward-model) | [paper](https://arxiv.org/html/2305.18290v2))
