@@ -108,3 +108,12 @@ Summaries of AI Research Papers
 ## Tutorial 
 - SPROUT: Authoring Programming Tutorials with Interactive Visualization of Large Language Model Generation Process ([summary](https://blog.athina.ai/sprout-authoring-programming-tutorials-with-interactive-visualization-of-large-language-model-generation-process) | [paper](https://arxiv.org/abs/2312.01801))
 
+## Dataset Generation
+- Towards Large-scale 3D Representation Learning with Multi-dataset Point Prompt Training ([summary](https://blog.athina.ai/towards-large-scale-3d-representation-learning-with-multi-dataset-point-prompt-training) | [paper](https://arxiv.org/abs/2308.09718))
+- Text2MDT: Extracting Medical Decision Trees from Medical Texts ([summary](https://blog.athina.ai/text2mdt-extracting-medical-decision-trees-from-medical-texts) | [paper](https://arxiv.org/abs/2401.02034))
+- Analyzing Toxicity in Deep Conversations: A Reddit Case Study ([summary](https://blog.athina.ai/analyzing-toxicity-in-deep-conversations-a-reddit-case-study) | [paper](https://arxiv.org/abs/2404.07879))
+- GuReT: Distinguishing Guilt and Regret related Text ([summary](https://blog.athina.ai/guret-distinguishing-guilt-and-regret-related-text) | [paper](https://arxiv.org/abs/2401.16541))
+- Large Language Models are Few-shot Generators: Proposing Hybrid Prompt Algorithm To Generate Webshell Escape Samples ([summary](https://blog.athina.ai/large-language-models-are-few-shot-generators-proposing-hybrid-prompt-algorithm-to-generate-webshell-escape-samples) | [paper](https://arxiv.org/abs/2402.07408))
+- Mixture of Soft Prompts for Controllable Data Generation ([summary](https://blog.athina.ai/mixture-of-soft-prompts-for-controllable-data-generation) | [paper](https://arxiv.org/abs/2303.01580))
+- WizardLM: Empowering Large Language Models to Follow Complex Instructions ([summary](https://blog.athina.ai/wizardlm-empowering-large-language-models-to-follow-complex-instructions) | [paper](https://arxiv.org/abs/2304.12244))
+
