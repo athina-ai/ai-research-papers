@@ -89,3 +89,19 @@ Summaries of AI Research Papers
 - Deficiency of Large Language Models in Finance: An Empirical Examination of Hallucination ([summary](https://blog.athina.ai/deficiency-of-large-language-models-in-finance-an-empirical-examination-of-hallucination) | [paper](https://arxiv.org/abs/2311.15548))
 - Factuality of Large Language Models in the Year 2024 ([summary](https://blog.athina.ai/factuality-of-large-language-models-in-the-year-2024) | [paper](https://arxiv.org/abs/2402.02420))
 - Ever: Mitigating Hallucination in Large Language Models through Real-Time Verification and Rectification ([summary](https://blog.athina.ai/ever-mitigating-hallucination-in-large-language-models-through-real-time-verification-and-rectification) | [paper](https://arxiv.org/html/2311.09114v2))
+
+## RAG
+- Chit-Chat or Deep Talk: Prompt Engineering for Process Mining ([summary](https://blog.athina.ai/chit-chat-or-deep-talk-prompt-engineering-for-process-mining) | [paper](https://arxiv.org/abs/2307.09909))
+- Prompt Engineering for Transformer-based Chemical Similarity Search Identifies Structurally Distinct Functional Analogues ([summary](https://blog.athina.ai/prompt-engineering-for-transformer-based-chemical-similarity-search-identifies-structurally-distinct-functional-analogues) | [paper](https://arxiv.org/abs/2305.16330))
+- Recitation-Augmented Language Models ([summary](https://blog.athina.ai/recitation-augmented-language-models) | [paper](https://arxiv.org/abs/2210.01296))
+- RNNs are not Transformers (Yet): The Key Bottleneck on In-context Retrieval ([summary](https://blog.athina.ai/rnns-are-not-transformers-yet-the-key-bottleneck-on-in-context-retrieval) | [paper](https://arxiv.org/abs/2402.18510))
+- Retrieval-Augmented Thought Process as Sequential Decision Making ([summary](https://blog.athina.ai/retrieval-augmented-thought-process-as-sequential-decision-making) | [paper](https://arxiv.org/abs/2402.07812))
+- Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP ([summary](https://blog.athina.ai/demonstrate-search-predict-composing-retrieval-and-language-models-for-knowledge-intensive-nlp) | [paper](https://arxiv.org/abs/2212.14024))
+- Language Is Not All You Need: Aligning Perception with Language Models ([summary](https://blog.athina.ai/language-is-not-all-you-need-aligning-perception-with-language-models) | [paper](https://arxiv.org/abs/2302.14045))
+- Structure Pretraining and Prompt Tuning for Knowledge Graph Transfer ([summary](https://blog.athina.ai/structure-pretraining-and-prompt-tuning-for-knowledge-graph-transfer) | [paper](https://arxiv.org/abs/2303.03922))
+- Pre-Training to Learn in Context ([summary](https://blog.athina.ai/pre-training-to-learn-in-context) | [paper](https://arxiv.org/abs/2305.09137))
+- The Web Can Be Your Oyster for Improving Large Language Models ([summary](https://blog.athina.ai/the-web-can-be-your-oyster-for-improving-large-language-models) | [paper](https://arxiv.org/abs/2305.10998))
+- A Step Closer to Comprehensive Answers: Constrained Multi-Stage Question Decomposition with Large Language Models ([summary](https://blog.athina.ai/a-step-closer-to-comprehensive-answers-constrained-multi-stage-question-decomposition-with-large-language-models) | [paper](https://arxiv.org/abs/2311.07491))
+- Active Retrieval Augmented Generation ([summary](https://blog.athina.ai/active-retrieval-augmented-generation) | [paper](https://arxiv.org/abs/2305.06983))
+- KnowGPT: Knowledge Injection for Large Language Models ([summary](https://blog.athina.ai/knowgpt-knowledge-injection-for-large-language-models) | [paper](https://arxiv.org/abs/2312.06185))
+
