@@ -77,3 +77,15 @@ Summaries of AI Research Papers
 - EntGPT: Linking Generative Large Language Models with Knowledge Bases ([summary](https://blog.athina.ai/entgpt-linking-generative-large-language-models-with-knowledge-bases) | [paper](https://arxiv.org/abs/2402.06738))
 - Chain-of-Verification Reduces Hallucination in Large Language Models ([summary](https://blog.athina.ai/chain-of-verification-reduces-hallucination-in-large-language-models) | [paper](https://arxiv.org/abs/2309.11495))
 - Reflexion: Language Agents with Verbal Reinforcement Learning ([summary](https://blog.athina.ai/reflexion-language-agents-with-verbal-reinforcement-learning) | [paper](https://arxiv.org/pdf/2303.11366.pdf))
+
+
+## Hallucinations
+- DiffusionGPT: LLM-Driven Text-to-Image Generation System ([summary](https://blog.athina.ai/diffusiongpt-llm-driven-text-to-image-generation-system) | [paper](https://arxiv.org/abs/2401.10061))
+- Chain-of-Verification Reduces Hallucination in Large Language Models ([summary](https://blog.athina.ai/chain-of-verification-reduces-hallucination-in-large-language-models) | [paper](https://arxiv.org/abs/2309.11495))
+- A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions ([summary](https://blog.athina.ai/a-survey-on-hallucination-in-large-language-models-principles-taxonomy-challenges-and-open-questions) | [paper](https://arxiv.org/abs/2311.052))
+- AutoHall: Automated Hallucination Dataset Generation for Large Language Models ([summary](https://blog.athina.ai/autohall-automated-hallucination-dataset-generation-for-large-language-models) | [paper](https://arxiv.org/abs/2310.0025))
+- Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models ([summary](https://blog.athina.ai/siren-s-song-in-the-ai-ocean-a-survey-on-hallucination-in-large-language-models) | [paper](https://arxiv.org/abs/2309.01219))
+- Self-contradictory Hallucinations of Large Language Models: Evaluation, Detection and Mitigation ([summary](https://blog.athina.ai/self-contradictory-hallucinations-of-large-language-models-evaluation-detection-and-mitigation) | [paper](https://arxiv.org/abs/2305.15852))
+- Deficiency of Large Language Models in Finance: An Empirical Examination of Hallucination ([summary](https://blog.athina.ai/deficiency-of-large-language-models-in-finance-an-empirical-examination-of-hallucination) | [paper](https://arxiv.org/abs/2311.15548))
+- Factuality of Large Language Models in the Year 2024 ([summary](https://blog.athina.ai/factuality-of-large-language-models-in-the-year-2024) | [paper](https://arxiv.org/abs/2402.02420))
+- Ever: Mitigating Hallucination in Large Language Models through Real-Time Verification and Rectification ([summary](https://blog.athina.ai/ever-mitigating-hallucination-in-large-language-models-through-real-time-verification-and-rectification) | [paper](https://arxiv.org/html/2311.09114v2))
