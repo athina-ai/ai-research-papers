@@ -105,3 +105,6 @@ Summaries of AI Research Papers
 - Active Retrieval Augmented Generation ([summary](https://blog.athina.ai/active-retrieval-augmented-generation) | [paper](https://arxiv.org/abs/2305.06983))
 - KnowGPT: Knowledge Injection for Large Language Models ([summary](https://blog.athina.ai/knowgpt-knowledge-injection-for-large-language-models) | [paper](https://arxiv.org/abs/2312.06185))
 
+## Tutorial 
+- SPROUT: Authoring Programming Tutorials with Interactive Visualization of Large Language Model Generation Process ([summary](https://blog.athina.ai/sprout-authoring-programming-tutorials-with-interactive-visualization-of-large-language-model-generation-process) | [paper](https://arxiv.org/abs/2312.01801))
+
