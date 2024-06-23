@@ -2,6 +2,12 @@
 Summaries of AI Research Papers
 
 ## Prompt Engineering
+- Enhancing Few-shot Text-to-SQL Capabilities of Large Language Models: A Study on Prompt Design Strategies ([summary](https://blog.athina.ai/enhancing-few-shot-text-to-sql-capabilities-of-large-language-models-a-study-on-prompt-design-strategies) | [paper](https://arxiv.org/abs/2305.12586))
+- Negative-prompt Inversion: Fast Image Inversion for Editing with Text-guided Diffusion Models ([summary](https://blog.athina.ai/negative-prompt-inversion-fast-image-inversion-for-editing-with-text-guided-diffusion-models) | [paper](https://arxiv.org/abs/2305.16807))
+- LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression ([summary](https://blog.athina.ai/longllmlingua-accelerating-and-enhancing-llms-in-long-context-scenarios-via-prompt-compression) | [paper](https://arxiv.org/abs/2310.06839))
+- Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers ([summary](https://blog.athina.ai/connecting-large-language-models-with-evolutionary-algorithms-yields-powerful-prompt-optimizers) | [paper](https://arxiv.org/abs/2309.08532))
+- Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design or: How I learned to start worrying about prompt formatting ([summary](https://blog.athina.ai/quantifying-language-models-sensitivity-to-spurious-features-in-prompt-design-or-how-i-learned-to-start-worrying-about-prompt-formatting) | [paper](https://arxiv.org/abs/2310.11324))
+- ChatGPT Prompt Patterns for Improving Code Quality, Refactoring, Requirements Elicitation, and Software Design ([summary](https://blog.athina.ai/chatgpt-prompt-patterns-for-improving-code-quality-refactoring-requirements-elicitation-and-software-design) | [paper](https://arxiv.org/abs/2303.07839))
 - Reflexion: Language Agents with Verbal Reinforcement Learning ([summary](https://blog.athina.ai/reflexion-language-agents-with-verbal-reinforcement-learning) | [paper](https://arxiv.org/pdf/2303.11366.pdf))
 - A study on Prompt Design, Advantages and Limitations of ChatGPT for Deep Learning Program Repair ([summary](https://blog.athina.ai/a-study-on-prompt-design-advantages-and-limitations-of-chatgpt-for-deep-learning-program-repair) | [paper](https://arxiv.org/abs/2304.0819))
 - Prompt-Free Diffusion: Taking 'Text' out of Text-to-Image Diffusion Models ([summary](https://blog.athina.ai/prompt-free-diffusion-taking-text-out-of-text-to-image-diffusion-models) | [paper](https://arxiv.org/abs/2305.16223))
