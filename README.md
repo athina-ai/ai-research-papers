@@ -2,6 +2,11 @@
 Summaries of AI Research Papers
 
 ## Prompt Engineering
+- You Only Prompt Once: On the Capabilities of Prompt Learning on Large Language Models to Tackle Toxic Content ([summary](https://blog.athina.ai/you-only-prompt-once-on-the-capabilities-of-prompt-learning-on-large-language-models-to-tackle-toxic-content) | [paper](https://arxiv.org/abs/2308.05596))
+- PBNR: Prompt-based News Recommender System ([summary](https://blog.athina.ai/pbnr-prompt-based-news-recommender-system) | [paper](https://arxiv.org/abs/2304.07862))
+- Generalized Graph Prompt: Toward a Unification of Pre-Training and Downstream Tasks on Graphs ([summary](https://blog.athina.ai/generalized-graph-prompt-toward-a-unification-of-pre-training-and-downstream-tasks-on-graphs) | [paper](https://arxiv.org/abs/2311.15317))
+- HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models ([summary](https://blog.athina.ai/hd-painter-high-resolution-and-prompt-faithful-text-guided-image-inpainting-with-diffusion-models) | [paper](https://arxiv.org/abs/2312.14091))
+- PromptTTS 2: Describing and Generating Voices with Text Prompt ([summary](https://blog.athina.ai/prompttts-2-describing-and-generating-voices-with-text-prompt) | [paper](https://arxiv.org/abs/2309.02285))
 - Enhancing Few-shot Text-to-SQL Capabilities of Large Language Models: A Study on Prompt Design Strategies ([summary](https://blog.athina.ai/enhancing-few-shot-text-to-sql-capabilities-of-large-language-models-a-study-on-prompt-design-strategies) | [paper](https://arxiv.org/abs/2305.12586))
 - Negative-prompt Inversion: Fast Image Inversion for Editing with Text-guided Diffusion Models ([summary](https://blog.athina.ai/negative-prompt-inversion-fast-image-inversion-for-editing-with-text-guided-diffusion-models) | [paper](https://arxiv.org/abs/2305.16807))
 - LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression ([summary](https://blog.athina.ai/longllmlingua-accelerating-and-enhancing-llms-in-long-context-scenarios-via-prompt-compression) | [paper](https://arxiv.org/abs/2310.06839))
@@ -118,6 +123,7 @@ Summaries of AI Research Papers
 - SPROUT: Authoring Programming Tutorials with Interactive Visualization of Large Language Model Generation Process ([summary](https://blog.athina.ai/sprout-authoring-programming-tutorials-with-interactive-visualization-of-large-language-model-generation-process) | [paper](https://arxiv.org/abs/2312.01801))
 
 ## Dataset Generation
+- Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs through a Global Scale Prompt Hacking Competition ([summary](https://blog.athina.ai/ignore-this-title-and-hackaprompt-exposing-systemic-vulnerabilities-of-llms-through-a-global-scale-prompt-hacking-competition) | [paper](https://arxiv.org/abs/2311.16119))
 - Language Prompt for Autonomous Driving ([summary](https://blog.athina.ai/language-prompt-for-autonomous-driving) | [paper](https://arxiv.org/abs/2309.04379))
 - Towards Large-scale 3D Representation Learning with Multi-dataset Point Prompt Training ([summary](https://blog.athina.ai/towards-large-scale-3d-representation-learning-with-multi-dataset-point-prompt-training) | [paper](https://arxiv.org/abs/2308.09718))
 - Text2MDT: Extracting Medical Decision Trees from Medical Texts ([summary](https://blog.athina.ai/text2mdt-extracting-medical-decision-trees-from-medical-texts) | [paper](https://arxiv.org/abs/2401.02034))
@@ -128,6 +134,7 @@ Summaries of AI Research Papers
 - WizardLM: Empowering Large Language Models to Follow Complex Instructions ([summary](https://blog.athina.ai/wizardlm-empowering-large-language-models-to-follow-complex-instructions) | [paper](https://arxiv.org/abs/2304.12244))
 
 ## Reasoning
+- Reprompting: Automated Chain-of-Thought Prompt Inference Through Gibbs Sampling ([summary](https://blog.athina.ai/reprompting-automated-chain-of-thought-prompt-inference-through-gibbs-sampling) | [paper](https://arxiv.org/abs/2305.09993))
 - LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models ([summary](https://blog.athina.ai/llm-grounded-diffusion-enhancing-prompt-understanding-of-text-to-image-diffusion-models-with-large-language-models) | [paper](https://arxiv.org/abs/2305.13655))
 - Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution ([summary](https://blog.athina.ai/promptbreeder-self-referential-self-improvement-via-prompt-evolution) | [paper](https://arxiv.org/abs/2309.16797))
 - Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT ([summary](https://blog.athina.ai/graph-toolformer-to-empower-llms-with-graph-reasoning-ability-via-prompt-augmented-by-chatgpt) | [paper](https://arxiv.org/abs/2304.11116))
@@ -193,6 +200,9 @@ Summaries of AI Research Papers
 - Post-Semantic-Thinking: A Robust Strategy to Distill Reasoning Capacity from Large Language Models ([summary](https://blog.athina.ai/post-semantic-thinking-a-robust-strategy-to-distill-reasoning-capacity-from-large-language-models) | [paper](https://arxiv.org/html/2404.09170v1))
   
 ## Foundation Model 
+- TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting ([summary](https://blog.athina.ai/tempo-prompt-based-generative-pre-trained-transformer-for-time-series-forecasting) | [paper](https://arxiv.org/abs/2310.04948))
+- Prompt a Robot to Walk with Large Language Models ([summary](https://blog.athina.ai/prompt-a-robot-to-walk-with-large-language-models) | [paper](https://arxiv.org/abs/2309.09969))
+- ProRes: Exploring Degradation-aware Visual Prompt for Universal Image Restoration ([summary](https://blog.athina.ai/prores-exploring-degradation-aware-visual-prompt-for-universal-image-restoration) | [paper](https://arxiv.org/abs/2306.13653))
 - Segment Any Anomaly without Training via Hybrid Prompt Regularization ([summary](https://blog.athina.ai/segment-any-anomaly-without-training-via-hybrid-prompt-regularization) | [paper](https://arxiv.org/abs/2305.10724))
 - SAM on Medical Images: A Comprehensive Study on Three Prompt Modes ([summary](https://blog.athina.ai/sam-on-medical-images-a-comprehensive-study-on-three-prompt-modes) | [paper](https://arxiv.org/abs/2305.00035))
 - AI Chain on Large Language Model for Unsupervised Control Flow Graph Generation for Statically-Typed Partial Code ([summary](https://blog.athina.ai/ai-chain-on-large-language-model-for-unsupervised-control-flow-graph-generation-for-statically-typed-partial-code) | [paper](https://arxiv.org/abs/2306.00757))
@@ -202,6 +212,13 @@ Summaries of AI Research Papers
 - Mistral 7B: Foundation Model Research Paper Summary ([summary](https://blog.athina.ai/mistral-7b-foundation-model-research-paper-summary) | [paper](https://arxiv.org/pdf/2310.06825.pdf))
 
 ## Fine Tuning
+- StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing ([summary](https://blog.athina.ai/stylediffusion-prompt-embedding-inversion-for-text-based-editing) | [paper](https://arxiv.org/abs/2303.15649))
+- Jatmo: Prompt Injection Defense by Task-Specific Finetuning ([summary](https://blog.athina.ai/jatmo-prompt-injection-defense-by-task-specific-finetuning) | [paper](https://arxiv.org/abs/2312.17673))
+- Prompt-tuning latent diffusion models for inverse problems ([summary](https://blog.athina.ai/prompt-tuning-latent-diffusion-models-for-inverse-problems) | [paper](https://arxiv.org/abs/2310.01110))
+- DePT: Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning ([summary](https://blog.athina.ai/dept-decomposed-prompt-tuning-for-parameter-efficient-fine-tuning) | [paper](https://arxiv.org/abs/2309.05173))
+- EdgeSAM: Prompt-In-the-Loop Distillation for On-Device Deployment of SAM ([summary](https://blog.athina.ai/edgesam-prompt-in-the-loop-distillation-for-on-device-deployment-of-sam) | [paper](https://arxiv.org/abs/2312.06660))
+- Prompt Tuning of Deep Neural Networks for Speaker-adaptive Visual Speech Recognition ([summary](https://blog.athina.ai/prompt-tuning-of-deep-neural-networks-for-speaker-adaptive-visual-speech-recognition) | [paper](https://arxiv.org/abs/2302.08102))
+- Visual Prompt Based Personalized Federated Learning ([summary](https://blog.athina.ai/visual-prompt-based-personalized-federated-learning) | [paper](https://arxiv.org/abs/2303.08678))
 - SpeechPrompt v2: Prompt Tuning for Speech Classification Tasks ([summary](https://blog.athina.ai/speechprompt-v2-prompt-tuning-for-speech-classification-tasks) | [paper](https://arxiv.org/abs/2303.00733))
 - Privacy-Preserving Prompt Tuning for Large Language Model Services ([summary](https://blog.athina.ai/privacy-preserving-prompt-tuning-for-large-language-model-services) | [paper](https://arxiv.org/abs/2305.06212))
 - IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models ([summary](https://blog.athina.ai/ip-adapter-text-compatible-image-prompt-adapter-for-text-to-image-diffusion-models) | [paper](https://arxiv.org/abs/2308.06721))
@@ -219,6 +236,8 @@ Summaries of AI Research Papers
 - Direct Preference Optimization: Your Language Model is Secretly a Reward Model ([summary](https://blog.athina.ai/direct-preference-optimization-your-language-model-is-secretly-a-reward-model) | [paper](https://arxiv.org/html/2305.18290v2))
 
 ## Evaluation 
+- TopicGPT: A Prompt-based Topic Modeling Framework ([summary](https://blog.athina.ai/topicgpt-a-prompt-based-topic-modeling-framework) | [paper](https://arxiv.org/abs/2311.01449))
+- Are Chatbots Ready for Privacy-Sensitive Applications? An Investigation into Input Regurgitation and Prompt-Induced Sanitization ([summary](https://blog.athina.ai/are-chatbots-ready-for-privacy-sensitive-applications-an-investigation-into-input-regurgitation-and-prompt-induced-sanitization) | [paper](https://arxiv.org/abs/2305.15008))
 - ImageDream: Image-Prompt Multi-view Diffusion for 3D Generation ([summary](https://blog.athina.ai/imagedream-image-prompt-multi-view-diffusion-for-3d-generation) | [paper](https://arxiv.org/abs/2312.02201))
 - Jailbreaking ChatGPT via Prompt Engineering: An Empirical Study ([summary](https://blog.athina.ai/jailbreaking-chatgpt-via-prompt-engineering-an-empirical-study) | [paper](https://arxiv.org/abs/2305.13860))
 - An LLM can Fool Itself: A Prompt-Based Adversarial Attack ([summary](https://blog.athina.ai/an-llm-can-fool-itself-a-prompt-based-adversarial-attack) | [paper](https://arxiv.org/abs/2310.13345))
@@ -277,6 +296,12 @@ Summaries of AI Research Papers
 - Few-shot Fine-tuning vs. In-context Learning: A Fair Comparison and Evaluation ([summary](https://blog.athina.ai/few-shot-fine-tuning-vs.-in-context-learning-a-fair-comparison-and-evaluation) | [paper](https://arxiv.org/abs/2305.16938))
 
 ## Safety
+- Benchmarking and Defending Against Indirect Prompt Injection Attacks on Large Language Models ([summary](https://blog.athina.ai/benchmarking-and-defending-against-indirect-prompt-injection-attacks-on-large-language-models) | [paper](https://arxiv.org/abs/2312.14197))
+- Assessing Prompt Injection Risks in 200+ Custom GPTs ([summary](https://blog.athina.ai/assessing-prompt-injection-risks-in-200-custom-gpts) | [paper](https://arxiv.org/abs/2311.11538))
+- Prompt Stealing Attacks Against Text-to-Image Generation Models ([summary](https://blog.athina.ai/prompt-stealing-attacks-against-text-to-image-generation-models) | [paper](https://arxiv.org/abs/2302.09923))
+- PromptCARE: Prompt Copyright Protection by Watermark Injection and Verification ([summary](https://blog.athina.ai/promptcare-prompt-copyright-protection-by-watermark-injection-and-verification) | [paper](https://arxiv.org/abs/2308.02816))
+- LLMs Can Understand Encrypted Prompt: Towards Privacy-Computing Friendly Transformers ([summary](https://blog.athina.ai/llms-can-understand-encrypted-prompt-towards-privacy-computing-friendly-transformers) | [paper](https://arxiv.org/abs/2305.18396))
+- Prompt Packer: Deceiving LLMs through Compositional Instruction with Hidden Attacks ([summary](https://blog.athina.ai/prompt-packer-deceiving-llms-through-compositional-instruction-with-hidden-attacks) | [paper](https://arxiv.org/abs/2310.10077))
 - From Prompt Injections to SQL Injection Attacks: How Protected is Your LLM-Integrated Web Application? ([summary](https://blog.athina.ai/from-prompt-injections-to-sql-injection-attacks-how-protected-is-your-llm-integrated-web-application) | [paper](https://arxiv.org/abs/2308.01990))
 - Prompt Injection attack against LLM-integrated Applications ([summary](https://blog.athina.ai/prompt-injection-attack-against-llm-integrated-applications) | [paper](https://arxiv.org/abs/2306.05499))
 - Prompting GPT-3 To Be Reliable ([summary](https://blog.athina.ai/prompting-gpt-3-to-be-reliable) | [paper](https://arxiv.org/abs/2210.09150))
