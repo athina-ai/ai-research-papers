@@ -2,6 +2,10 @@
 Summaries of AI Research Papers
 
 ## Prompt Engineering
+- Prompt Tuning Large Language Models on Personalized Aspect Extraction for Recommendations ([summary](https://blog.athina.ai/prompt-tuning-large-language-models-on-personalized-aspect-extraction-for-recommendations) | [paper](https://arxiv.org/abs/2306.01475))
+- Prompt Middleware: Mapping Prompts for Large Language Models to UI Affordances ([summary](https://blog.athina.ai/prompt-middleware-mapping-prompts-for-large-language-models-to-ui-affordances) | [paper](https://arxiv.org/abs/2307.01142))
+- Prompt-Guided Transformers for End-to-End Open-Vocabulary Object Detection ([summary](https://blog.athina.ai/prompt-guided-transformers-for-end-to-end-open-vocabulary-object-detection) | [paper](https://arxiv.org/abs/2303.14386))
+- Prompt-based Node Feature Extractor for Few-shot Learning on Text-Attributed Graphs ([summary](https://blog.athina.ai/prompt-based-node-feature-extractor-for-few-shot-learning-on-text-attributed-graphs) | [paper](https://arxiv.org/abs/2309.02848))
 - You Only Prompt Once: On the Capabilities of Prompt Learning on Large Language Models to Tackle Toxic Content ([summary](https://blog.athina.ai/you-only-prompt-once-on-the-capabilities-of-prompt-learning-on-large-language-models-to-tackle-toxic-content) | [paper](https://arxiv.org/abs/2308.05596))
 - PBNR: Prompt-based News Recommender System ([summary](https://blog.athina.ai/pbnr-prompt-based-news-recommender-system) | [paper](https://arxiv.org/abs/2304.07862))
 - Generalized Graph Prompt: Toward a Unification of Pre-Training and Downstream Tasks on Graphs ([summary](https://blog.athina.ai/generalized-graph-prompt-toward-a-unification-of-pre-training-and-downstream-tasks-on-graphs) | [paper](https://arxiv.org/abs/2311.15317))
@@ -91,6 +95,7 @@ Summaries of AI Research Papers
 
 
 ## Hallucinations
+- Exploring the Relationship between LLM Hallucinations and Prompt Linguistic Nuances: Readability, Formality, and Concreteness [summary](https://blog.athina.ai/exploring-the-relationship-between-llm-hallucinations-and-prompt-linguistic-nuances-readability-formality-and-concreteness) | [paper](https://arxiv.org/abs/2309.11064)
 - Re-imagine the Negative Prompt Algorithm: Transform 2D Diffusion into 3D, alleviate Janus problem and Beyond ([summary](https://blog.athina.ai/re-imagine-the-negative-prompt-algorithm-transform-2d-diffusion-into-3d-alleviate-janus-problem-and-beyond) | [paper](https://arxiv.org/abs/2304.04968))
 - AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection ([summary](https://blog.athina.ai/anomalyclip-object-agnostic-prompt-learning-for-zero-shot-anomaly-detection) | [paper](https://arxiv.org/abs/2310.18961))
 - DiffusionGPT: LLM-Driven Text-to-Image Generation System ([summary](https://blog.athina.ai/diffusiongpt-llm-driven-text-to-image-generation-system) | [paper](https://arxiv.org/abs/2401.10061))
@@ -134,6 +139,9 @@ Summaries of AI Research Papers
 - WizardLM: Empowering Large Language Models to Follow Complex Instructions ([summary](https://blog.athina.ai/wizardlm-empowering-large-language-models-to-follow-complex-instructions) | [paper](https://arxiv.org/abs/2304.12244))
 
 ## Reasoning
+- An automatically discovered chain-of-thought prompt generalizes to novel models and datasets ([summary](https://blog.athina.ai/an-automatically-discovered-chain-of-thought-prompt-generalizes-to-novel-models-and-datasets) | [paper](https://arxiv.org/abs/2305.02897))
+- Query-Dependent Prompt Evaluation and Optimization with Offline Inverse RL ([summary](https://blog.athina.ai/query-dependent-prompt-evaluation-and-optimization-with-offline-inverse-rl) | [paper](https://arxiv.org/abs/2309.06553))
+- Divide and Prompt: Chain of Thought Prompting for Text-to-SQL ([summary](https://blog.athina.ai/divide-and-prompt-chain-of-thought-prompting-for-text-to-sql) | [paper](https://arxiv.org/abs/2304.11556))
 - Reprompting: Automated Chain-of-Thought Prompt Inference Through Gibbs Sampling ([summary](https://blog.athina.ai/reprompting-automated-chain-of-thought-prompt-inference-through-gibbs-sampling) | [paper](https://arxiv.org/abs/2305.09993))
 - LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models ([summary](https://blog.athina.ai/llm-grounded-diffusion-enhancing-prompt-understanding-of-text-to-image-diffusion-models-with-large-language-models) | [paper](https://arxiv.org/abs/2305.13655))
 - Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution ([summary](https://blog.athina.ai/promptbreeder-self-referential-self-improvement-via-prompt-evolution) | [paper](https://arxiv.org/abs/2309.16797))
@@ -296,6 +304,8 @@ Summaries of AI Research Papers
 - Few-shot Fine-tuning vs. In-context Learning: A Fair Comparison and Evaluation ([summary](https://blog.athina.ai/few-shot-fine-tuning-vs.-in-context-learning-a-fair-comparison-and-evaluation) | [paper](https://arxiv.org/abs/2305.16938))
 
 ## Safety
+- DP-OPT: Make Large Language Model Your Privacy-Preserving Prompt Engineer ([summary](https://blog.athina.ai/dp-opt-make-large-language-model-your-privacy-preserving-prompt-engineer) | [paper](https://arxiv.org/abs/2312.03724))
+- Practical Membership Inference Attacks against Fine-tuned Large Language Models via Self-prompt Calibration ([summary](https://blog.athina.ai/practical-membership-inference-attacks-against-fine-tuned-large-language-models-via-self-prompt-calibration) | [paper](https://arxiv.org/abs/2311.06062))
 - Benchmarking and Defending Against Indirect Prompt Injection Attacks on Large Language Models ([summary](https://blog.athina.ai/benchmarking-and-defending-against-indirect-prompt-injection-attacks-on-large-language-models) | [paper](https://arxiv.org/abs/2312.14197))
 - Assessing Prompt Injection Risks in 200+ Custom GPTs ([summary](https://blog.athina.ai/assessing-prompt-injection-risks-in-200-custom-gpts) | [paper](https://arxiv.org/abs/2311.11538))
 - Prompt Stealing Attacks Against Text-to-Image Generation Models ([summary](https://blog.athina.ai/prompt-stealing-attacks-against-text-to-image-generation-models) | [paper](https://arxiv.org/abs/2302.09923))
