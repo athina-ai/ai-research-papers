@@ -2,6 +2,11 @@
 Summaries of AI Research Papers
 
 ## Prompt Engineering
+- Promise: Prompt-driven 3D Medical Image Segmentation Using Pretrained Image Foundation Models ([summary](https://blog.athina.ai/promise-prompt-driven-3d-medical-image-segmentation-using-pretrained-image-foundation-models) | [paper](https://arxiv.org/abs/2310.19721))
+- Prompt Algebra for Task Composition ([summary](https://blog.athina.ai/prompt-algebra-for-task-composition) | [paper](https://arxiv.org/abs/2306.00310))
+- AntifakePrompt: Prompt-Tuned Vision-Language Models are Fake Image Detectors ([summary](https://blog.athina.ai/antifakeprompt-prompt-tuned-vision-language-models-are-fake-image-detectors) | [paper](https://arxiv.org/abs/2310.17419))
+- LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-tailed Multi-Label Visual Recognition ([summary](https://blog.athina.ai/lmpt-prompt-tuning-with-class-specific-embedding-loss-for-long-tailed-multi-label-visual-recognition) | [paper](https://arxiv.org/abs/2305.04536))
+- SD4Match: Learning to Prompt Stable Diffusion Model for Semantic Matching ([summary](https://blog.athina.ai/sd4match-learning-to-prompt-stable-diffusion-model-for-semantic-matching) | [paper](https://arxiv.org/abs/2310.17569))
 - Controlling Personality Style in Dialogue with Zero-Shot Prompt-Based Learning ([summary](https://blog.athina.ai/controlling-personality-style-in-dialogue-with-zero-shot-prompt-based-learning) | [paper](https://arxiv.org/abs/2302.03848))
 - Soft Prompt Tuning for Augmenting Dense Retrieval with Large Language Models ([summary](https://blog.athina.ai/soft-prompt-tuning-for-augmenting-dense-retrieval-with-large-language-models) | [paper](https://arxiv.org/abs/2307.08303))
 - Multimodal Prompt Perceiver: Empower Adaptiveness, Generalizability and Fidelity for All-in-One Image Restoration ([summary](https://blog.athina.ai/multimodal-prompt-perceiver-empower-adaptiveness-generalizability-and-fidelity-for-all-in-one-image-restoration) | [paper](https://arxiv.org/abs/2312.02918))
@@ -214,6 +219,7 @@ Summaries of AI Research Papers
 - Post-Semantic-Thinking: A Robust Strategy to Distill Reasoning Capacity from Large Language Models ([summary](https://blog.athina.ai/post-semantic-thinking-a-robust-strategy-to-distill-reasoning-capacity-from-large-language-models) | [paper](https://arxiv.org/html/2404.09170v1))
   
 ## Foundation Model 
+- Prompt Sapper: LLM-Empowered Software Engineering Infrastructure for AI-Native Services ([summary](https://blog.athina.ai/prompt-sapper-llm-empowered-software-engineering-infrastructure-for-ai-native-services) | [paper](https://arxiv.org/abs/2306.02230))
 - TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting ([summary](https://blog.athina.ai/tempo-prompt-based-generative-pre-trained-transformer-for-time-series-forecasting) | [paper](https://arxiv.org/abs/2310.04948))
 - Prompt a Robot to Walk with Large Language Models ([summary](https://blog.athina.ai/prompt-a-robot-to-walk-with-large-language-models) | [paper](https://arxiv.org/abs/2309.09969))
 - ProRes: Exploring Degradation-aware Visual Prompt for Universal Image Restoration ([summary](https://blog.athina.ai/prores-exploring-degradation-aware-visual-prompt-for-universal-image-restoration) | [paper](https://arxiv.org/abs/2306.13653))
@@ -226,6 +232,7 @@ Summaries of AI Research Papers
 - Mistral 7B: Foundation Model Research Paper Summary ([summary](https://blog.athina.ai/mistral-7b-foundation-model-research-paper-summary) | [paper](https://arxiv.org/pdf/2310.06825.pdf))
 
 ## Fine Tuning
+- Prompt-Tuning Decision Transformer with Preference Ranking ([summary](https://blog.athina.ai/prompt-tuning-decision-transformer-with-preference-ranking) | [paper](https://arxiv.org/abs/2305.09648))
 - Layout and Task Aware Instruction Prompt for Zero-shot Document Image Question Answering ([summary](https://blog.athina.ai/layout-and-task-aware-instruction-prompt-for-zero-shot-document-image-question-answering) | [paper](https://arxiv.org/abs/2306.00526))
 - BadCLIP: Trigger-Aware Prompt Learning for Backdoor Attacks on CLIP ([summary](https://blog.athina.ai/badclip-trigger-aware-prompt-learning-for-backdoor-attacks-on-clip) | [paper](https://arxiv.org/abs/2311.16194))
 - TCP: Textual-based Class-aware Prompt tuning for Visual-Language Model ([summary](https://blog.athina.ai/tcp-textual-based-class-aware-prompt-tuning-for-visual-language-model) | [paper](https://arxiv.org/abs/2311.18231))
@@ -253,6 +260,8 @@ Summaries of AI Research Papers
 - Direct Preference Optimization: Your Language Model is Secretly a Reward Model ([summary](https://blog.athina.ai/direct-preference-optimization-your-language-model-is-secretly-a-reward-model) | [paper](https://arxiv.org/html/2305.18290v2))
 
 ## Evaluation 
+- Safeguarding Crowdsourcing Surveys from ChatGPT with Prompt Injection ([summary](https://blog.athina.ai/safeguarding-crowdsourcing-surveys-from-chatgpt-with-prompt-injection) | [paper](https://arxiv.org/abs/2306.08833))
+- Last One Standing: A Comparative Analysis of Security and Privacy of Soft Prompt Tuning, LoRA, and In-Context Learning ([summary](https://blog.athina.ai/last-one-standing-a-comparative-analysis-of-security-and-privacy-of-soft-prompt-tuning-lora-and-in-context-learning) | [paper](https://arxiv.org/abs/2310.11397))
 - TopicGPT: A Prompt-based Topic Modeling Framework ([summary](https://blog.athina.ai/topicgpt-a-prompt-based-topic-modeling-framework) | [paper](https://arxiv.org/abs/2311.01449))
 - Are Chatbots Ready for Privacy-Sensitive Applications? An Investigation into Input Regurgitation and Prompt-Induced Sanitization ([summary](https://blog.athina.ai/are-chatbots-ready-for-privacy-sensitive-applications-an-investigation-into-input-regurgitation-and-prompt-induced-sanitization) | [paper](https://arxiv.org/abs/2305.15008))
 - ImageDream: Image-Prompt Multi-view Diffusion for 3D Generation ([summary](https://blog.athina.ai/imagedream-image-prompt-multi-view-diffusion-for-3d-generation) | [paper](https://arxiv.org/abs/2312.02201))
@@ -313,6 +322,7 @@ Summaries of AI Research Papers
 - Few-shot Fine-tuning vs. In-context Learning: A Fair Comparison and Evaluation ([summary](https://blog.athina.ai/few-shot-fine-tuning-vs.-in-context-learning-a-fair-comparison-and-evaluation) | [paper](https://arxiv.org/abs/2305.16938))
 
 ## Safety
+- Adversarial Prompt Tuning for Vision-Language Models ([summary](https://blog.athina.ai/adversarial-prompt-tuning-for-vision-language-models) | [paper](https://arxiv.org/abs/2311.11261))
 - Token-Level Adversarial Prompt Detection Based on Perplexity Measures and Contextual Information ([summary](https://blog.athina.ai/token-level-adversarial-prompt-detection-based-on-perplexity-measures-and-contextual-information) | [paper](https://arxiv.org/abs/2311.11509))
 - DP-OPT: Make Large Language Model Your Privacy-Preserving Prompt Engineer ([summary](https://blog.athina.ai/dp-opt-make-large-language-model-your-privacy-preserving-prompt-engineer) | [paper](https://arxiv.org/abs/2312.03724))
 - Practical Membership Inference Attacks against Fine-tuned Large Language Models via Self-prompt Calibration ([summary](https://blog.athina.ai/practical-membership-inference-attacks-against-fine-tuned-large-language-models-via-self-prompt-calibration) | [paper](https://arxiv.org/abs/2311.06062))
