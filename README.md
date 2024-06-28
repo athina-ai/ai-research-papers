@@ -260,6 +260,7 @@ Summaries of AI Research Papers
 - Direct Preference Optimization: Your Language Model is Secretly a Reward Model ([summary](https://blog.athina.ai/direct-preference-optimization-your-language-model-is-secretly-a-reward-model) | [paper](https://arxiv.org/html/2305.18290v2))
 
 ## Evaluation 
+- LLM Critics Help Catch LLM Bugs ([summary](https://blog.athina.ai/llm-critics-help-catch-llm-bugs) | [paper](https://cdn.openai.com/llm-critics-help-catch-llm-bugs-paper.pdf))
 - Safeguarding Crowdsourcing Surveys from ChatGPT with Prompt Injection ([summary](https://blog.athina.ai/safeguarding-crowdsourcing-surveys-from-chatgpt-with-prompt-injection) | [paper](https://arxiv.org/abs/2306.08833))
 - Last One Standing: A Comparative Analysis of Security and Privacy of Soft Prompt Tuning, LoRA, and In-Context Learning ([summary](https://blog.athina.ai/last-one-standing-a-comparative-analysis-of-security-and-privacy-of-soft-prompt-tuning-lora-and-in-context-learning) | [paper](https://arxiv.org/abs/2310.11397))
 - TopicGPT: A Prompt-based Topic Modeling Framework ([summary](https://blog.athina.ai/topicgpt-a-prompt-based-topic-modeling-framework) | [paper](https://arxiv.org/abs/2311.01449))
