@@ -2,6 +2,12 @@
 Summaries of AI Research Papers
 
 ## Prompt Engineering
+- Text-driven Prompt Generation for Vision-Language Models in Federated Learning ([summary](https://blog.athina.ai/text-driven-prompt-generation-for-vision-language-models-in-federated-learning) | [paper](https://arxiv.org/abs/2310.06123))
+- Reverse Stable Diffusion: What prompt was used to generate this image? ([summary](https://blog.athina.ai/reverse-stable-diffusion-what-prompt-was-used-to-generate-this-image) | [paper](https://arxiv.org/abs/2308.01472))
+- Prompt-ICM: A Unified Framework towards Image Coding for Machines with Task-driven Prompts ([summary](https://blog.athina.ai/prompt-icm-a-unified-framework-towards-image-coding-for-machines-with-task-driven-prompts) | [paper](https://arxiv.org/abs/2305.02578))
+- Large Language Model Prompt Chaining for Long Legal Document Classification ([summary](https://blog.athina.ai/large-language-model-prompt-chaining-for-long-legal-document-classification) | [paper](https://arxiv.org/abs/2308.04138))
+- Plum: Prompt Learning using Metaheuristic ([summary](https://blog.athina.ai/plum-prompt-learning-using-metaheuristic) | [paper](https://arxiv.org/abs/2311.08364))
+- Rethinking Visual Prompt Learning as Masked Visual Token Modeling ([summary](https://blog.athina.ai/rethinking-visual-prompt-learning-as-masked-visual-token-modeling) | [paper](https://arxiv.org/abs/2303.04998))
 - ULTRA-DP: Unifying Graph Pre-training with Multi-task Graph Dual Prompt ([summary](https://blog.athina.ai/ultra-dp-unifying-graph-pre-training-with-multi-task-graph-dual-prompt) | [paper](https://arxiv.org/abs/2310.14845))
 - Prompting Hard or Hardly Prompting: Prompt Inversion for Text-to-Image Diffusion Models ([summary](https://blog.athina.ai/prompting-hard-or-hardly-prompting-prompt-inversion-for-text-to-image-diffusion-models) | [paper](https://arxiv.org/abs/2312.12416))
 - SPELL: Semantic Prompt Evolution based on a LLM ([summary](https://blog.athina.ai/spell-semantic-prompt-evolution-based-on-a-llm) | [paper](https://arxiv.org/abs/2310.01260))
@@ -237,6 +243,9 @@ Summaries of AI Research Papers
 - Mistral 7B: Foundation Model Research Paper Summary ([summary](https://blog.athina.ai/mistral-7b-foundation-model-research-paper-summary) | [paper](https://arxiv.org/pdf/2310.06825.pdf))
 
 ## Fine Tuning
+- FoodGPT: A Large Language Model in Food Testing Domain with Incremental Pre-training and Knowledge Graph Prompt ([summary](https://blog.athina.ai/foodgpt-a-large-language-model-in-food-testing-domain-with-incremental-pre-training-and-knowledge-graph-prompt) | [paper](https://arxiv.org/abs/2308.10173))
+- Image-Object-Specific Prompt Learning for Few-Shot Class-Incremental Learning ([summary](https://blog.athina.ai/image-object-specific-prompt-learning-for-few-shot-class-incremental-learning) | [paper](https://arxiv.org/abs/2309.02833))
+- Consistency-guided Prompt Learning for Vision-Language Models ([summary](https://blog.athina.ai/consistency-guided-prompt-learning-for-vision-language-models) | [paper](https://arxiv.org/abs/2306.01195))
 - Progressive Visual Prompt Learning with Contrastive Feature Re-formation ([summary](https://blog.athina.ai/progressive-visual-prompt-learning-with-contrastive-feature-re-formation) | [paper](https://arxiv.org/abs/2304.08386))
 - Efficient Federated Prompt Tuning for Black-box Large Pre-trained Models ([summary](https://blog.athina.ai/efficient-federated-prompt-tuning-for-black-box-large-pre-trained-models) | [paper](https://arxiv.org/abs/2310.03123))
 - Prompt-Tuning Decision Transformer with Preference Ranking ([summary](https://blog.athina.ai/prompt-tuning-decision-transformer-with-preference-ranking) | [paper](https://arxiv.org/abs/2305.09648))
@@ -332,6 +341,7 @@ Summaries of AI Research Papers
 - Few-shot Fine-tuning vs. In-context Learning: A Fair Comparison and Evaluation ([summary](https://blog.athina.ai/few-shot-fine-tuning-vs.-in-context-learning-a-fair-comparison-and-evaluation) | [paper](https://arxiv.org/abs/2305.16938))
 
 ## Safety
+- Does Prompt-Tuning Language Model Ensure Privacy? ([summary](https://blog.athina.ai/does-prompt-tuning-language-model-ensure-privacy) | [paper](https://arxiv.org/abs/2304.03472))
 - Robust Safety Classifier for Large Language Models: Adversarial Prompt Shield ([summary](https://blog.athina.ai/robust-safety-classifier-for-large-language-models-adversarial-prompt-shield) | [paper](https://arxiv.org/abs/2311.00172))
 - Adversarial Prompt Tuning for Vision-Language Models ([summary](https://blog.athina.ai/adversarial-prompt-tuning-for-vision-language-models) | [paper](https://arxiv.org/abs/2311.11261))
 - Token-Level Adversarial Prompt Detection Based on Perplexity Measures and Contextual Information ([summary](https://blog.athina.ai/token-level-adversarial-prompt-detection-based-on-perplexity-measures-and-contextual-information) | [paper](https://arxiv.org/abs/2311.11509))
